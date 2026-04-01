@@ -1,5 +1,7 @@
 # 💳 Fraud Detection and Anomaly Analysis in Financial Transactions
 
+![Class Distribution](https://github.com/karinfaraujo/fraud-detection-anomaly-analysis-python/blob/main/images/shap_summary.png?raw=true)
+
 ## 📌 Project Overview
 
 This project focuses on detecting fraudulent financial transactions using machine learning techniques.
