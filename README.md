@@ -1,8 +1,8 @@
 # 💳 Fraud Detection and Anomaly Analysis in Financial Transactions
 
+The SHAP summary plot below highlights the variables that contributed the most to fraud prediction.
 ![SHAP Explainability](https://github.com/karinfaraujo/fraud-detection-anomaly-analysis-python/blob/main/images/shap_summary.png?raw=true)
 
-The SHAP summary plot below highlights the variables that contributed the most to fraud prediction.
 
 ## 📌 Project Overview
 
